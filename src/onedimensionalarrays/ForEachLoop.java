@@ -1,4 +1,4 @@
-package arrays;
+package onedimensionalarrays;
 
 public class ForEachLoop {
     public static void main(String[] args) {

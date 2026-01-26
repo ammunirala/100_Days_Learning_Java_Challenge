@@ -1,4 +1,4 @@
-package arrays;
+package onedimensionalarrays;
 
 public class BasicsOfArray {
     public static void main(String[] args) {
