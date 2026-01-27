@@ -1,4 +1,4 @@
-package oops.Class_Object;
+package oops;
 
 class Pen {
     String color;
