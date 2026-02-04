@@ -8,7 +8,7 @@ public class Question07 {
         l = j / i * i;
         a = i / j * j;
         b = j / i * i;
-        System.out.println(k+" "+b+" "+b);
+        System.out.println(k+" "+l+" "+a+" "+b);
 
 
 
