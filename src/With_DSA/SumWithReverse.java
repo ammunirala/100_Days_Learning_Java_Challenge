@@ -18,6 +18,7 @@ public class SumWithReverse {
        int sum = temp + rev;
        System.out.println("Reverse = " +rev);
        System.out.println("Sum of number and its reverse = " + sum);
+         sc.close();
 
     }
 }

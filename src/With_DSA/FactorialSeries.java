@@ -12,6 +12,7 @@ public class FactorialSeries {
             fact = fact * i;
             System.out.println(i + "! = " + fact);
         }
+        sc.close();
 
     }
 }
