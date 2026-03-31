@@ -11,11 +11,13 @@ public class Modulo {
         int b = sc.nextInt();
         int r = a%b;
         System.out.println("The reminder when "+a+" is divided by  "+b+" is "+r);
+        sc.close();
 
 //        int x = 45;
 //        int y = 8;
 //        int r = x%y;
 //        System.out.println(r);
+
 
 
     }

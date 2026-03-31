@@ -12,6 +12,7 @@ public class Question06 {
         int q = a/b;
         int r = a - (b*q);
         System.out.println("The reminder when "+a+" is divided by  "+b+" is "+r);
+        sc.close();
 
 
     }

@@ -44,6 +44,8 @@ public class Variables1 {
          int sum = a + b;
          System.out.println(sum);
 
+         sc.close();
+
 
 
 

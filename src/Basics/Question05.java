@@ -12,6 +12,7 @@ public class Question05 {
         System.out.println("sum of numbers");
         int sum = x +  y;
         System.out.println(sum);
+        sc.close();
 
 
     }

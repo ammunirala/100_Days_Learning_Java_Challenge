@@ -9,6 +9,7 @@ public class Char {
         System.out.println(ch);
         int x = (int)ch;
         System.out.println(x);
+            sc.close();
 
     }
 }
