@@ -10,7 +10,7 @@ public class FindNSum {
         for(int i = 1; i <=n; i++){
             sum =sum +i;
         }
-        System.out.println(STR."sum is \{sum}");
+        System.out.println("sum is " + sum);
 
 
 

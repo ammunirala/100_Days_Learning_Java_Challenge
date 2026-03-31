@@ -6,6 +6,7 @@ public class BasicsOfStrings {
         String sameName = "Ammu";
         String newName = new String("Ammu");
         System.out.println(name);
+        System.out.println(sameName);
         System.out.println(newName);
 
     }
