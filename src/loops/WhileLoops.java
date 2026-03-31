@@ -6,11 +6,12 @@ public class WhileLoops {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         boolean hasLearnt = false;
-        while(!hasLearnt){
+        while (!hasLearnt) {
             System.out.println("Went to school,tried to learn");
             System.out.println("have you understood");
             hasLearnt = sc.nextBoolean();
-        }
 
+        }
+        sc.close();
     }
 }

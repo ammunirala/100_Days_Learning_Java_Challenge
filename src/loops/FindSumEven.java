@@ -12,5 +12,6 @@ public class FindSumEven {
             sum = sum + 2*i;
         }
         System.out.println("sum is " +sum);
+        sc.close();
     }
 }
